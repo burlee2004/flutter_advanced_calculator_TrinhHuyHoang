@@ -74,28 +74,36 @@ Sound Effects
 
 History size
 
-📸 Screenshots
+Screenshots
 
-(Đặt ảnh vào các vị trí dưới đây)
-
-📱 Basic Mode
+ Basic Mode
 	
-
-	
-🧪 Scientific Mode
-	
+<img width="444" height="749" alt="image" src="https://github.com/user-attachments/assets/92918059-b114-4e51-8bcc-d27c023c5657" />
 
 	
-💻 Programmer Mode
+Scientific Mode
 	
+<img width="436" height="759" alt="image" src="https://github.com/user-attachments/assets/db3f6d9f-993d-444d-94ab-4c0cd5569ca8" />
+
+	
+Programmer Mode
+	
+<img width="452" height="760" alt="image" src="https://github.com/user-attachments/assets/0ec57802-e40a-42ea-90ae-e962ce1c9b97" />
 
 	
 🎨 Theme Showcase
-Light	Dark
+Light
+<img width="481" height="728" alt="image" src="https://github.com/user-attachments/assets/25529334-366e-4596-9510-7a98a6dfbc97" />
+
+Dark
+<img width="424" height="750" alt="image" src="https://github.com/user-attachments/assets/46d283ba-b82c-4161-97b2-f4174a37c8e7" />
 
 	
 📜 History & Settings
-	
+<img width="433" height="746" alt="image" src="https://github.com/user-attachments/assets/c2fd0310-c64b-47c1-81d0-c37d84c8b6a8" />
+
+<img width="460" height="745" alt="image" src="https://github.com/user-attachments/assets/1b70f7fd-f9df-40be-a249-7dc7b9e3ddf2" />
+<img width="425" height="745" alt="image" src="https://github.com/user-attachments/assets/18b7b292-8884-44dc-ade1-af694c566ae3" />
 
 	
 🏗️ Cấu trúc Project
